@@ -109,7 +109,7 @@
           <div class="card-body">
             <h5 class="card-title">View Customers</h5>
             <p class="card-text">View all Customer's data</p>
-            <a href="transfermoney.php"  class="btn btn-outline-light" style="background-color: #511281; color:#ffffff;"">View Customers</a>
+            <a href="transfermoney.php"  class="btn btn-outline-light" style="background-color: #511281; color:#ffffff;">View Customers</a>
           </div>
         </div>
 
